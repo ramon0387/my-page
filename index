@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Vadez-Melchor R.G.</title>
+  <meta name="author" content="Valdez-Melchor R.G.">
+  <meta name="description" content="This web site provide information about research interest, academical formation and working experience of the author.">
+ </head>
+ <body>
+  <h1>Valdez-Melchor R.G.</h1>
+  <img src="images/mi-foto.png" alt="Valdez-Melchor R.G.">
+  <h2>Academical formation</h2>
+  <a href="cv.pdf">About me</a>
+  <h2>Research interest</h2>
+   <ul>
+     <li>Biochemistry</li>
+     <li>Food Science</li>
+     <li>Statistics</li>
+     <li>Programming</li>
+   </ul>
+   <h2>Publications</h2>
+   <a href="https://scholar.google.es/citations?user=xhjU43wAAAAJ&hl=es&oi=ao">Google Scholar</a>
+ </body>
+</html> 
