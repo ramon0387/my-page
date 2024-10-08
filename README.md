@@ -1,2 +1,2 @@
-# my-page
-This is a space to create a pesonal web site in HTML; currently, I am working in the construction of the web site.
+# Ideal buffer
+This script allows to calculate amounts (g) either the acid as the conjugated base in order to prepare a buffer sistem under standar conditions. Everyone can invocate the ideal_buffer.py file program from Linux or Mac OS command lines throught Python language, when program is invocated sudenly the entry options for variables will appeare -- they can be integers or floats; then, the program will iniciate the calculus. Once it will finish to make the operations the result will be printed on screen.
